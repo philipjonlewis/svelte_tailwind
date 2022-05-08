@@ -1,10 +1,9 @@
 <script>
-  import logo from "./assets/svelte.png";
   import Counter from "./lib/Counter.svelte";
 </script>
 
 <main>
-  <img src={logo} alt="Svelte Logo" />
+  <!-- <img src={} alt="Svelte Logo" /> -->
   <h1 class="text-blue-500">Hello world!</h1>
 
   <Counter />
@@ -20,7 +19,7 @@
   </p>
 </main>
 
-<style >
+<style>
   :root {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
       Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
