@@ -1,5 +1,5 @@
-import "./app.css";
-import "./style.scss"
+import "./styles/tailwind.scss";
+import "./styles/style.scss";
 
 import App from "./App.svelte";
 
